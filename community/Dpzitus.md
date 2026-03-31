@@ -17,6 +17,6 @@ Gostos ecléticos, hobbies de criação, sempre buscando conhecimento novo, e to
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-030?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-taça-4323a0292/)
 
-[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCD0EwIaWD_fXKXoKUq_78Yg](https://www.youtube.com/@QuadranteDelta)
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@QuadranteDelta)
 
 ![See You, Space Cowboy](https://m.media-amazon.com/images/I/41ylsEcpfkL._AC_UF894,1000_QL80_.jpg)
